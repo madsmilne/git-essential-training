@@ -1,3 +1,2 @@
 Just some content 
-
-Adding conetnt to create a conflict
+creating a merge conflict 
