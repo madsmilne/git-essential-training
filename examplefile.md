@@ -1,1 +1,2 @@
-Just some content 
+Just some content
+Some new content
